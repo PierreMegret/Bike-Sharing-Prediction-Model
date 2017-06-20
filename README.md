@@ -17,3 +17,6 @@ Built a Random Forest Regressor after having tuned it with a grid search cross-v
 
 ### Part 3. Predictions and model performances
 Evaluated the model performances and predicated the total count of bikes rented in the test set.
+
+## Results
+Ranked first in a private Kaggle competition (22 participants).
